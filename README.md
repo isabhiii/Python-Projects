@@ -1,9 +1,9 @@
 # Python-Projects
 
 Hello Everyone,
->This Repository contains all the pythone projects I have worked on while revising my Python syllabus.
->I believe putting the concepts of Defining function and Loops into practice is the best way to revise them.
->So, these are some projects I have worked on. I sure did face some difficulties at first, but then it was a piece of cake 🧁.
+>This Repository contains all the pythone projects I have worked on while revising my Python syllabus this month (December 2021).
+>I believe putting the concepts of Defining function, importinf different libraries and Loops into practice is the best way to revise them.
+>So, these are some projects I have worked on. I sure face some difficulties at first, but then it was a piece of cake 🧁.
 
 ## Index:
 
